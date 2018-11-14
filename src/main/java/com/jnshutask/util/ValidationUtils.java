@@ -36,7 +36,6 @@ public class ValidationUtils {
             throw new ServiceException(
                     String.format("args validation error:%s",
                             constraintViolations.iterator().next().getMessage()));
-
         }
     }
 }

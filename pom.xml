@@ -170,6 +170,7 @@
     </dependencies>
 
     <build>
+        <finalName>jnshuTask8000</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
